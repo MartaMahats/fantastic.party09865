@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background: blue;
+}
+
+header img {
+    padding: 10px;
+}
+
+header a{
+   color: white;
+   margin-left: 15px;
+}
+
+h1 {
+color: #ADFF2F;
+text-align: center;
+}
+
+footer {
+    background: #ADFF2F	;
+}
+
+footer p{
+    border: 3px solid blue;
+    background-color: #00BFFF;
+}
+
+nav {
+  border: 4px solid #00FFFF;
+  text-decoration: none;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav div {
+  width: 24%;
+  display: inline-block;
+}
+
+p.dadop {
+    border: 3px solid blue;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#discount {
+  color: blue;
+}
